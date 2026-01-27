@@ -29,10 +29,10 @@ Replace `YOUR-USERNAME` with your GitHub username.
 ### Step 3: Create a New Branch
 
 ```bash
-git checkout -b add-your-name
+git checkout -b add-john-doe
 ```
 
-Replace `your-name` with your actual name (e.g., `add-john-doe`).
+Replace `john-doe` with your actual name (e.g., `add-jane-smith`).
 
 ### Step 4: Make Your Changes
 
@@ -66,8 +66,10 @@ git commit -m "Add [Your Name] to contributors"
 ### Step 7: Push to GitHub
 
 ```bash
-git push origin add-your-name
+git push origin add-john-doe
 ```
+
+(Use the same branch name you created in Step 3)
 
 ### Step 8: Create a Pull Request
 
